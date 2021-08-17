@@ -10,6 +10,10 @@ The following **required** functionality is complete:
 
 The following **additional** features are implemented:
 * [ ] User can split the bill with up to 50 people.
+
+## Video Walkthrough
+Here's a walkthrough of implemented user stories:
+
 ## License
 
     Copyright 2021 Samrat Bhattarai
