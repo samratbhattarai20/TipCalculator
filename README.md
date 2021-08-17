@@ -13,6 +13,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/73952095/129671116-c4d9c15e-de55-4343-90f9-98b9ef4148b1.gif)
+
 
 ## License
 
